@@ -1,115 +1,133 @@
-<!-- ===================== IMPACT HEADER ===================== -->
+<!-- ======================= DOMINANT HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Ayush%20Nagarkoti&fontSize=48&color=0:000000,100:1f2937&stroke=ffffff&strokeWidth=1.2"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Ayush%20Nagarkoti&fontSize=52&color=0:000000,100:111827&stroke=ffffff&strokeWidth=1.3"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Systems+Engineer;Architecting+End-to-End+AI+Pipelines;Deep+Learning+%7C+Optimization+%7C+Deployment;From+Data+to+Production" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=700&color=00F0FF&center=true&vCenter=true&width=1000&lines=Machine+Learning+Systems+Architect;Neural+Network+Optimization+Specialist;End-to-End+AI+Pipeline+Engineer;From+Raw+Data+to+Deployment-Ready+Intelligence" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThaGeekiestOne&label=Profile%20Views&color=0e75b6&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=ThaGeekiestOne&label=System%20Observations&color=00F0FF&style=flat-square"/>
 </p>
 
 ---
 
-# SYSTEM ARCHITECTURE MINDSET
+# SYSTEMS PHILOSOPHY
 
 ```text
-Raw Data
+Signal Extraction
    ↓
-Feature Engineering
+Feature Space Engineering
    ↓
-Model Architecture Design
+Model Architecture Strategy
    ↓
-Generalization & Optimization
+Optimization & Regularization
    ↓
-Evaluation Strategy
+Validation & Error Profiling
    ↓
-API Layer
+Inference Layer Design
    ↓
-Deployment-Ready System
+Deployment-Ready ML System
 ```
 
-I engineer ML systems with an emphasis on structure, reproducibility, and deployment-readiness.
+I design machine learning systems with architectural discipline.
 
-This profile reflects applied machine learning built with production thinking.
+My work emphasizes:
+- Deterministic preprocessing pipelines  
+- Controlled model generalization  
+- Performance-driven evaluation strategies  
+- Deployment-aware design decisions  
+- Scalable inference logic  
+
+This profile represents applied ML engineered with production intent.
 
 ---
 
-# TECHNICAL FOUNDATION
+# CORE TECHNICAL INFRASTRUCTURE
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,fastapi,git,linux,gcp&perline=5"/>
 </p>
 
-Core Specialization:
-- Artificial Neural Networks (Multi-layer architectures)
-- Structured supervised learning systems
-- Model performance optimization
-- Data normalization & feature scaling strategies
-- Evaluation metric selection & interpretation
-- API-first ML deployment strategy
+Primary Focus Areas:
+
+• Multi-layer Artificial Neural Networks  
+• Structured supervised learning systems  
+• Loss landscape sensitivity awareness  
+• Optimization-driven training workflows  
+• Feature normalization & scaling theory  
+• Metric-driven validation frameworks  
+• API-first model serving design  
 
 ---
 
-# ENGINEERED SYSTEMS
+# ENGINEERED INTELLIGENCE SYSTEMS
 
-## BANK CHURN PREDICTION — Deep Neural Classification Pipeline
+## BANK CHURN PREDICTION — Structured Neural Classification Engine
 
-Architected an end-to-end ANN classification system for structured financial data.
+Architected a multi-layer ANN classification pipeline targeting financial churn dynamics.
 
-• Multi-layer neural network design  
-• Feature scaling & categorical encoding strategies  
-• Overfitting mitigation considerations  
-• Confusion matrix driven evaluation  
-• Performance-oriented model tuning  
+System Components:
+- Encoded categorical feature space  
+- Normalized continuous variables  
+- Layered neural topology design  
+- Error surface evaluation  
+- Confusion-matrix-driven performance profiling  
 
-Emphasis: Controlled generalization and scalable pipeline structure.
-
----
-
-## CAR PRICE PREDICTION — Regression Optimization System
-
-Designed a regression-focused ANN pipeline for continuous output modeling.
-
-• Structured preprocessing workflow  
-• Normalization-driven stability improvements  
-• R²-based evaluation strategy  
-• Real-time prediction interface  
-
-Emphasis: Continuous value modeling with optimization awareness.
+Focus:
+Controlling overfitting while maintaining predictive stability.
 
 ---
 
-## HOSPITAL READMISSION RISK MODELING
+## CAR PRICE PREDICTION — Regression Architecture Optimization
 
-Applied structured data science methodology to healthcare risk prediction.
+Designed a regression-centric neural inference system for continuous valuation modeling.
 
-• Business problem abstraction  
-• Feature-driven modeling approach  
-• Validation framework  
-• Risk interpretation layer  
+Pipeline Elements:
+- Deterministic preprocessing workflow  
+- Scale-aware input normalization  
+- ANN-based regression modeling  
+- R²-driven model validation  
+- Real-time prediction interface layer  
 
-Emphasis: Domain-aligned machine learning implementation.
-
----
-
-## SIGN LANGUAGE → SPEECH AI SYSTEM (Architecture Phase)
-
-Designing a modular assistive AI system composed of:
-
-• Vision-based gesture recognition  
-• Deep learning classification layer  
-• Text transformation module  
-• Speech synthesis integration  
-
-Objective: Real-time multimodal assistive intelligence pipeline.
+Focus:
+Output stability and variance minimization under normalized feature distributions.
 
 ---
 
-# ENGINEERING METRICS
+## HOSPITAL READMISSION RISK MODELING — Domain-Specific Predictive Framework
+
+Constructed a healthcare-oriented ML risk stratification system.
+
+Design Considerations:
+- Problem abstraction at business level  
+- Feature importance alignment  
+- Validation under constrained domain context  
+- Risk-oriented interpretation layer  
+
+Focus:
+Translating statistical signal into actionable domain insight.
+
+---
+
+## SIGN LANGUAGE → SPEECH AI PIPELINE (Modular Architecture Design)
+
+Designing a multi-stage assistive intelligence system composed of:
+
+• Computer vision gesture detection  
+• Neural classification layer  
+• Semantic mapping stage  
+• Text-to-speech synthesis module  
+• Latency-aware inference considerations  
+
+Objective:
+Developing a real-time multimodal assistive intelligence framework.
+
+---
+
+# PERFORMANCE INTELLIGENCE METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThaGeekiestOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
@@ -125,7 +143,7 @@ Objective: Real-time multimodal assistive intelligence pipeline.
 
 ---
 
-# CONTRIBUTION INTENSITY
+# DEVELOPMENT INTENSITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaGeekiestOne&theme=react-dark&hide_border=true&bg_color=000000"/>
@@ -133,27 +151,27 @@ Objective: Real-time multimodal assistive intelligence pipeline.
 
 ---
 
-# CAPABILITY RADAR
+# CAPABILITY DISTRIBUTION
 
 <p align="center">
-  <img src="https://progress-bar.dev/88/?title=Machine%20Learning&color=00F5FF"/>
-  <img src="https://progress-bar.dev/82/?title=Deep%20Learning&color=00F5FF"/>
-  <img src="https://progress-bar.dev/78/?title=Model%20Optimization&color=00F5FF"/>
-  <img src="https://progress-bar.dev/75/?title=System%20Architecture&color=00F5FF"/>
-  <img src="https://progress-bar.dev/72/?title=Deployment%20Design&color=00F5FF"/>
+  <img src="https://progress-bar.dev/90/?title=Machine%20Learning%20Systems&color=00F0FF"/>
+  <img src="https://progress-bar.dev/85/?title=Neural%20Network%20Design&color=00F0FF"/>
+  <img src="https://progress-bar.dev/82/?title=Model%20Optimization&color=00F0FF"/>
+  <img src="https://progress-bar.dev/78/?title=Deployment%20Strategy&color=00F0FF"/>
+  <img src="https://progress-bar.dev/75/?title=System%20Architecture%20Thinking&color=00F0FF"/>
 </p>
 
 ---
 
-# STRATEGIC DIRECTION
+# STRATEGIC TRAJECTORY
 
-• Advancing toward production-grade ML system design  
-• Strengthening regularization & generalization strategies  
-• Architecting scalable inference pipelines  
-• Transitioning models from experimentation to deployment  
+• Advancing toward scalable ML system architecture  
+• Refining generalization control methodologies  
+• Designing inference-aware training workflows  
+• Strengthening production-grade model serving  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:1f2937"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:000000,100:111827"/>
 </p>
