@@ -31,7 +31,7 @@
 
 | Category | Tools |
 |----------|-------|
-| **Languages** | Python, C++, SQL |
+| **Languages** | Python, SQL |
 | **ML & Data** | NumPy, Pandas, Scikit-Learn, Matplotlib |
 | **Deployment** | Streamlit, FastAPI |
 | **Tools** | Git, GitHub, VSCode |
@@ -87,6 +87,6 @@ Collection of **LeetCode solutions** in Python
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-✉️-red?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/ayus200509"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:ayushnagarkoti2005@gmail.com"><img src="https://img.shields.io/badge/Email-✉️-red?style=for-the-badge"/></a>
 </p>
