@@ -1,83 +1,108 @@
-<!-- ================= HEADER ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0f2027&height=180&section=header&text=Ayush%20Nagarkoti&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h3 align="center">Applied Machine Learning Engineer</h3>
-<p align="center">Designing End-to-End ML Systems • Focused on Deployment & Optimization</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThaGeekiestOne&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+Primary focus:
+- Deep Learning (ANN)
+- Supervised Learning Systems
+- Model Generalization
+- API-Based Deployment
 
 ---
 
-## PROFILE
-
-Machine Learning practitioner building structured, production-oriented ML systems.
-
-Core strengths:
-- Supervised Learning (Regression & Classification)
-- Artificial Neural Networks (ANN)
-- Feature Engineering & Data Scaling
-- Model Evaluation & Performance Optimization
-- API-based Deployment (FastAPI / Streamlit)
-
-Focused on transitioning models from experimentation to deployment-ready systems.
-
----
-
-## TECHNICAL STACK
+# TECH STACK
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,fastapi,git,linux,gcp"/>
-
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,fastapi,git,linux,gcp&perline=5" />
 </p>
 
 ---
 
-## SELECTED PROJECTS
+# CORE PROJECTS
 
-### Bank Churn Prediction — Deep Learning Classification
-- Designed ANN-based classification pipeline
-- Implemented encoding & feature scaling
-- Optimized model performance through tuning
-- Evaluated using accuracy & confusion matrix analysis
+## Bank Churn Prediction — Deep Learning Classification
 
-**Focus:** Model generalization and structured pipeline design
+• Built ANN-based classification pipeline  
+• Applied encoding & feature scaling  
+• Optimized performance via tuning  
+• Evaluated using confusion matrix & accuracy  
 
----
-
-### Car Price Prediction — ANN Regression
-- Built end-to-end regression workflow
-- Applied normalization & performance evaluation (R²)
-- Developed prediction interface for real-world inputs
-
-**Focus:** Continuous value modeling & regression optimization
+Focus: structured ML pipeline & generalization control  
 
 ---
 
-### Hospital Readmission Risk Modeling
-- Applied full data science lifecycle
-- Structured business understanding → modeling → evaluation
-- Risk-focused interpretation for healthcare use-case
+## Car Price Prediction — ANN Regression
 
-**Focus:** Applied ML in domain-specific context
+• Designed regression workflow  
+• Implemented normalization  
+• Evaluated using R² and error metrics  
+• Built custom prediction interface  
 
----
-
-### Sign Language → Speech System (In Progress)
-- Computer vision gesture recognition pipeline
-- Deep learning-based classification
-- Text-to-speech integration roadmap
-- System-level architecture planning
-
-**Goal:** Real-time assistive AI system
+Focus: continuous output optimization  
 
 ---
 
-## SYSTEM DESIGN PHILOSOPHY
+## Hospital Readmission Risk Modeling
 
-Every ML project follows:
+• Applied full data science lifecycle  
+• Business framing → modeling → validation  
+• Risk-focused interpretation  
+
+Focus: domain-specific ML application  
+
+---
+
+## Sign Language → Speech System (In Progress)
+
+• Computer vision classification pipeline  
+• Deep learning-based gesture recognition  
+• Text-to-speech integration roadmap  
+• Real-time assistive AI system architecture  
+
+---
+
+# GITHUB METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaGeekiestOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaGeekiestOne&theme=tokyonight&hide_border=true&background=0d1117"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaGeekiestOne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+# CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaGeekiestOne&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+# CURRENT FOCUS
+
+- Deep learning architecture refinement  
+- Overfitting mitigation strategies  
+- API-first ML deployment  
+- Production ML system design  
+
+---
+
+# CONTACT
+
+Open to ML-focused internships, collaborations, and technical discussions.
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<!-- ======================== FOOTER ======================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer"/>
+</p>
