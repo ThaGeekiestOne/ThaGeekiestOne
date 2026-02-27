@@ -154,11 +154,11 @@ Developing a real-time multimodal assistive intelligence framework.
 # CAPABILITY DISTRIBUTION
 
 <p align="center">
-  <img src="https://progress-bar.dev/90/?title=Machine%20Learning%20Systems&color=00F0FF"/>
-  <img src="https://progress-bar.dev/85/?title=Neural%20Network%20Design&color=00F0FF"/>
-  <img src="https://progress-bar.dev/82/?title=Model%20Optimization&color=00F0FF"/>
-  <img src="https://progress-bar.dev/78/?title=Deployment%20Strategy&color=00F0FF"/>
-  <img src="https://progress-bar.dev/75/?title=System%20Architecture%20Thinking&color=00F0FF"/>
+  <img src="https://img.shields.io/badge/ML%20Systems-🔥90%25-00F0FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-✨85%25-00F0FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Optimization-⚡82%25-00F0FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Architecture-🧠78%25-00F0FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deployment-🚀75%25-00F0FF?style=flat-square"/>
 </p>
 
 ---
