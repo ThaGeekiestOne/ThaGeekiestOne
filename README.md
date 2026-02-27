@@ -1,11 +1,11 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ===================== IMPACT HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Ayush%20Nagarkoti&fontSize=45&color=0:0f2027,100:2c5364&stroke=ffffff&strokeWidth=1.5"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Ayush%20Nagarkoti&fontSize=48&color=0:000000,100:1f2937&stroke=ffffff&strokeWidth=1.2"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Applied+Machine+Learning+Engineer;Building+End-to-End+ML+Systems;Deep+Learning+%7C+Deployment+%7C+Optimization" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Systems+Engineer;Architecting+End-to-End+AI+Pipelines;Deep+Learning+%7C+Optimization+%7C+Deployment;From+Data+to+Production" />
 </p>
 
 <p align="center">
@@ -14,118 +14,146 @@
 
 ---
 
-## SYSTEM THINKING
+# SYSTEM ARCHITECTURE MINDSET
 
 ```text
-Data → Cleaning → Feature Engineering → Model → Validation → API → Deployment
+Raw Data
+   ↓
+Feature Engineering
+   ↓
+Model Architecture Design
+   ↓
+Generalization & Optimization
+   ↓
+Evaluation Strategy
+   ↓
+API Layer
+   ↓
+Deployment-Ready System
 ```
 
-Focused on building structured, production-oriented ML pipelines.
+I engineer ML systems with an emphasis on structure, reproducibility, and deployment-readiness.
 
-Primary Areas:
-- Deep Learning (ANN)
-- Supervised Learning (Regression & Classification)
-- Model Optimization & Generalization
-- API-First ML Deployment
+This profile reflects applied machine learning built with production thinking.
 
 ---
 
-## TECH STACK
+# TECHNICAL FOUNDATION
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pandas,numpy,fastapi,git,linux,gcp&perline=5"/>
 </p>
 
+Core Specialization:
+- Artificial Neural Networks (Multi-layer architectures)
+- Structured supervised learning systems
+- Model performance optimization
+- Data normalization & feature scaling strategies
+- Evaluation metric selection & interpretation
+- API-first ML deployment strategy
+
 ---
 
-## SKILL DEPTH
+# ENGINEERED SYSTEMS
+
+## BANK CHURN PREDICTION — Deep Neural Classification Pipeline
+
+Architected an end-to-end ANN classification system for structured financial data.
+
+• Multi-layer neural network design  
+• Feature scaling & categorical encoding strategies  
+• Overfitting mitigation considerations  
+• Confusion matrix driven evaluation  
+• Performance-oriented model tuning  
+
+Emphasis: Controlled generalization and scalable pipeline structure.
+
+---
+
+## CAR PRICE PREDICTION — Regression Optimization System
+
+Designed a regression-focused ANN pipeline for continuous output modeling.
+
+• Structured preprocessing workflow  
+• Normalization-driven stability improvements  
+• R²-based evaluation strategy  
+• Real-time prediction interface  
+
+Emphasis: Continuous value modeling with optimization awareness.
+
+---
+
+## HOSPITAL READMISSION RISK MODELING
+
+Applied structured data science methodology to healthcare risk prediction.
+
+• Business problem abstraction  
+• Feature-driven modeling approach  
+• Validation framework  
+• Risk interpretation layer  
+
+Emphasis: Domain-aligned machine learning implementation.
+
+---
+
+## SIGN LANGUAGE → SPEECH AI SYSTEM (Architecture Phase)
+
+Designing a modular assistive AI system composed of:
+
+• Vision-based gesture recognition  
+• Deep learning classification layer  
+• Text transformation module  
+• Speech synthesis integration  
+
+Objective: Real-time multimodal assistive intelligence pipeline.
+
+---
+
+# ENGINEERING METRICS
 
 <p align="center">
-  <img src="https://progress-bar.dev/85/?title=Machine%20Learning&color=58A6FF"/>
-  <img src="https://progress-bar.dev/80/?title=Deep%20Learning&color=58A6FF"/>
-  <img src="https://progress-bar.dev/75/?title=Model%20Deployment&color=58A6FF"/>
-  <img src="https://progress-bar.dev/70/?title=System%20Design&color=58A6FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaGeekiestOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaGeekiestOne&theme=tokyonight&hide_border=true&background=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaGeekiestOne&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
 
-# CORE PROJECTS
-
-## Bank Churn Prediction — ANN Classification
-- Designed multi-layer ANN architecture  
-- Applied encoding & feature scaling  
-- Performance tuning & evaluation  
-- Evaluated using confusion matrix & accuracy  
-- Focus: Generalization & structured pipeline design  
-
----
-
-## Car Price Prediction — ANN Regression
-- Built end-to-end regression workflow  
-- Implemented normalization & R² evaluation  
-- Developed custom prediction interface  
-- Focus: Continuous output optimization  
-
----
-
-## Hospital Readmission Risk Modeling
-- Applied complete data science lifecycle  
-- Business framing → modeling → validation  
-- Risk-focused healthcare interpretation  
-- Focus: Domain-specific ML application  
-
----
-
-## Sign Language → Speech System (In Progress)
-- Computer vision gesture recognition pipeline  
-- Deep learning classification  
-- Text-to-speech integration roadmap  
-- Goal: Real-time assistive AI system  
-
----
-
-# PERFORMANCE METRICS
+# CONTRIBUTION INTENSITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaGeekiestOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaGeekiestOne&theme=tokyonight&hide_border=true&background=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaGeekiestOne&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaGeekiestOne&theme=react-dark&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
 
-# CONTRIBUTION ACTIVITY
+# CAPABILITY RADAR
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaGeekiestOne&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+  <img src="https://progress-bar.dev/88/?title=Machine%20Learning&color=00F5FF"/>
+  <img src="https://progress-bar.dev/82/?title=Deep%20Learning&color=00F5FF"/>
+  <img src="https://progress-bar.dev/78/?title=Model%20Optimization&color=00F5FF"/>
+  <img src="https://progress-bar.dev/75/?title=System%20Architecture&color=00F5FF"/>
+  <img src="https://progress-bar.dev/72/?title=Deployment%20Design&color=00F5FF"/>
 </p>
 
 ---
 
-# ACHIEVEMENTS
+# STRATEGIC DIRECTION
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThaGeekiestOne&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# CONNECT
-
-<p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+• Advancing toward production-grade ML system design  
+• Strengthening regularization & generalization strategies  
+• Architecting scalable inference pipelines  
+• Transitioning models from experimentation to deployment  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:2c5364,100:0f2027"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:1f2937"/>
 </p>
