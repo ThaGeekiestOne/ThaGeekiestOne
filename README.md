@@ -1,83 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ayush%20Nagarkoti&fontSize=42&color=0:000000,100:111827&stroke=ffffff&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Ayush%20Nagarkoti&fontSize=44&color=0:000000,100:111827&stroke=ffffff&strokeWidth=1"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Machine+Learning;Neural+Networks;AI+Systems;Building+and+Learning"/>
 </p>
 
 ---
 
-## 👋 About Me
+## 👋 About
 
-Hi, I'm Ayush.
-
-I build machine learning models and focus on understanding how they behave — not just how to train them.
-
-Currently working on:
-- Neural networks  
-- Feature engineering  
-- Model evaluation and generalization  
-- API-based model deployment  
-- End-to-end ML pipelines  
-
-Still learning. Still building.
-
----
-
-## 🧠 My Workflow
-
-Most of my projects follow this structure:
-
-1. Understand the problem clearly  
-2. Clean and preprocess the data  
-3. Engineer useful features  
-4. Normalize / scale inputs  
-5. Train and validate the model  
-6. Analyze errors  
-7. Deploy using an API  
-
-Simple and practical.
+Focused on machine learning and AI systems.  
+Building projects, improving fundamentals, and working toward production-ready models.
 
 ---
 
 ## 🚀 Projects
 
-### 🏦 Bank Churn Prediction
-Artificial Neural Network for classification.
-
-- Encoded categorical variables  
-- Feature scaling  
-- Multi-layer ANN  
-- Confusion matrix evaluation  
-- Overfitting control  
+<p align="center">
+  <img src="https://img.shields.io/badge/Bank%20Churn-Classification-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Car%20Price-Regression-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hospital%20Risk-Prediction-00F0FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sign%20Language-Speech%20AI-00F0FF?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🚗 Car Price Prediction
-Neural network regression model.
+## 🧠 Focus Areas
 
-- Deterministic preprocessing  
-- Scaled feature space  
-- R²-based validation  
-- Real-time prediction interface  
-
----
-
-### 🏥 Hospital Readmission Risk Model
-Healthcare risk prediction system.
-
-- Business-level problem framing  
-- Feature alignment  
-- Evaluation under domain constraints  
+```mermaid
+flowchart LR
+A[Machine Learning] --> B[Neural Networks]
+A --> C[Feature Engineering]
+A --> D[Optimization]
+A --> E[Deployment]
+```
 
 ---
 
-### ✋ Sign Language → Speech (In Progress)
+## 📊 Skill Overview
 
-Building a modular assistive AI system:
-
-- Gesture detection  
-- Classification model  
-- Text mapping  
-- Text-to-speech output  
-- Real-time inference focus  
+<p align="center">
+  <img src="https://img.shields.io/badge/ML%20Systems-90%25-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-85%25-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Optimization-80%25-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-75%25-111827?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -89,7 +57,7 @@ Building a modular assistive AI system:
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ThaGeekiestOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
@@ -100,20 +68,11 @@ Building a modular assistive AI system:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaGeekiestOne&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaGeekiestOne&theme=react-dark&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
 
-## 📌 Currently Improving
-
-- Neural network fundamentals  
-- Optimization techniques  
-- Generalization control  
-- Deployment-ready ML systems  
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000000,100:111827"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:111827"/>
 </p>
