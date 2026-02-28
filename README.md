@@ -29,13 +29,13 @@ Building projects, improving fundamentals, and working toward production-ready m
 ## 🧠 Focus Areas
 
 ```mermaid
-flowchart LR
-A[Machine Learning] --> B[Neural Networks]
-A --> C[Feature Engineering]
-A --> D[Optimization]
-A --> E[Deployment]
+mindmap
+  root((Machine Learning))
+    Neural Networks
+    Feature Engineering
+    Optimization
+    Deployment
 ```
-
 ---
 
 ## 📊 Skill Overview
