@@ -81,5 +81,5 @@ Building projects, improving fundamentals, and working toward production-ready m
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:000000,100:111827"/>
+  <img src="https://raw.githubusercontent.com/ThaGeekiestOne/ThaGeekiestOne/main/banner.png" width="100%" />
 </p>
