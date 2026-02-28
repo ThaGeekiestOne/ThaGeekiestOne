@@ -75,7 +75,7 @@ Building projects, improving fundamentals, and working toward production-ready m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaGeekiestOne&theme=react-dark&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaGeekiestOne&theme=react-dark&hide_border=true&bg_color=000000&cache_seconds=1800"/> 
 </p>
 
 ---
