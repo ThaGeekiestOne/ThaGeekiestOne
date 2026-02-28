@@ -81,5 +81,5 @@ Building projects, improving fundamentals, and working toward production-ready m
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThaGeekiestOne/ThaGeekiestOne/main/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/ThaGeekiestOne/ThaGeekiestOne/main/banner3.png" width="100%" />
 </p>
