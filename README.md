@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Ayush%20Nagarkoti&fontSize=52&fontAlignY=40&color=0:0f172a,50:111827,100:1e293b&fontColor=00F0FF&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Neural%20Networks&descAlignY=65&descAlign=50"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ayush%20Nagarkoti&fontSize=52&fontAlignY=40&color=0:0f172a,50:111827,100:1e293b&fontColor=00F0FF&animation=fadeIn&desc=AI%20%7C%20Machine%20Learning%20%7C%20Neural%20Networks&descAlignY=65&descAlign=50"
   />
 </p>
 
@@ -10,11 +10,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20Views&color=00f0ff&style=for-the-badge" />
-</p>
-
----
 
 ## 👋 About
 
