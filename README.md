@@ -60,11 +60,16 @@ A --> E[Deployment]
 ## 📈 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaGeekiestOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api
+    username=ThaGeekiestOne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&cache_seconds=1800" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaGeekiestOne&theme=tokyonight&hide_border=true&background=000000"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=ThaGeekiestOne&theme=tokyonight&hide_border=true&background=000000&cache_seconds=1800" 
+  />
 </p>
 
 <p align="center">
