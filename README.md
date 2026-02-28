@@ -28,14 +28,16 @@ Building projects, improving fundamentals, and working toward production-ready m
 
 ## 🧠 Focus Areas
 
-```mermaid
-mindmap
-  root((Machine Learning))
-    Neural Networks
-    Feature Engineering
-    Optimization
-    Deployment
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Neural%20Networks-1f2937?style=for-the-badge&color=00F0FF"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-1f2937?style=for-the-badge&color=00F0FF"/>
+  <img src="https://img.shields.io/badge/Optimization-1f2937?style=for-the-badge&color=00F0FF"/>
+  <img src="https://img.shields.io/badge/Deployment-1f2937?style=for-the-badge&color=00F0FF"/>
+</p>
 ---
 
 ## 📊 Skill Overview
